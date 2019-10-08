@@ -26501,7 +26501,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.NinePatch.prototype.acts.SetOpacity,
 	cr.plugins_.Audio.prototype.acts.SetMasterVolume,
 	cr.plugins_.Audio.prototype.acts.Preload,
-	cr.plugins_.WebStorage.prototype.cnds.LocalStorageExists,
 	cr.plugins_.Audio.prototype.cnds.PreloadsComplete
 ];};
 
